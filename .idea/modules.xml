@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\devil_workspace\DevilCityPicker\CityPicker2.iml" filepath="E:\devil_workspace\DevilCityPicker\CityPicker2.iml" />
+      <module fileurl="file://E:\devil_workspace\CityPicker2\CityPickerDemo.iml" filepath="E:\devil_workspace\CityPicker2\CityPickerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DevilCityPicker.iml" filepath="$PROJECT_DIR$/DevilCityPicker.iml" />
+      <module fileurl="file://E:\devil_workspace\CityPicker2\citypicker\citypicker.iml" filepath="E:\devil_workspace\CityPicker2\citypicker\citypicker.iml" />
+      <module fileurl="file://E:\devil_workspace\DevilCityPicker\citypicker\citypicker.iml" filepath="E:\devil_workspace\DevilCityPicker\citypicker\citypicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://E:\devil_workspace\CityPicker2\demo\demo.iml" filepath="E:\devil_workspace\CityPicker2\demo\demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devilcitypicker/devilcitypicker.iml" filepath="$PROJECT_DIR$/devilcitypicker/devilcitypicker.iml" />
+    </modules>
+  </component>
+</project>
